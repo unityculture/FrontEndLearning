@@ -1,0 +1,458 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"my",
+				"my_list2"
+			],
+			[
+				"my_l",
+				"my_list2"
+			],
+			[
+				"my_",
+				"my_list"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "markdown",
+		"selected_items":
+		[
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Enable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packag in",
+				"Package Control: Install Package"
+			],
+			[
+				"\t",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"view.run_command(\"IncrementCommand\")",
+			"IncrementCommand()",
+			"IncrementCommand（）",
+			"IncrementCommand()",
+			"IncrementCommand(",
+			"IncrementCommand",
+			"view.run_command(\"example\")",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"1",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/20151007_classification",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/2017/20170402_KNN",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/2017/20170404_LDA",
+		"/Users/sheng/Documents/Learning/front-end/css/github_cust.css",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/sheng/Pictures/Screenshot/img 2017-04-04 下午10.40.51.jpg",
+		"/Users/sheng/Documents/Learning/front-end/css/modest.css",
+		"/Users/sheng/Desktop/markdown8.css",
+		"/Users/sheng/Documents/Learning/front-end/css/markdown8.css",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/lab/20151014_lda_qda_lr.R",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/lab/20151028_SVM.Rmd",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/lab/20151014_LD_hw.Rmd",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/20151230_ICA",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/YueTeam/20160114_chapter7",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Side Bar Folders.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/20151125_MDS",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/lab/20151203_Multidimensional Scaling (MDS).r",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/YueTeam/20151214_chapter6",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/lab/Final_exam/data_Intro",
+		"/Users/sheng/Desktop/header.tex",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/lab/Final_exam/AirPollution.txt",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/lab/Final_exam/MixedDialogs.txt",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/lab/Final_exam/citycrime.txt",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/lab/citycrime.txt",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/lab/20151216_Simple Correspondence Analysis (CA).r",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/Mammals.txt",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/lab/fisher.txt",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/lab/20151125_PCA",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/20151216_Correspondence Analysis",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/nccu_ml.sublime-project",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/20151125_PCA",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/lab/Midterm/wine_data_intro.txt",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/20151104_clustering",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/lab/Midterm/wine_data_test.txt",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/lab/Midterm/wine_data",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/lab/olive.txt",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/20151028_SVM",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/20151022_bagging&boosting",
+		"/Users/sheng/Desktop/test",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/20151007_ML_note",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/new data",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/new fish",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/fish",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/NCCU_MLNote.sublime-project",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/sheng/Documents/Learning/py/20151007_ML_note",
+		"/Users/sheng/Desktop/English/60s/Topic - Cheap Goods From China Have High Carbon Co",
+		"/Users/sheng/Documents/Learning/py/learning1.py",
+		"/Users/sheng/Documents/Learning/SQL/basic.sql",
+		"/Users/sheng/Documents/Learning/SQL/FunctionDefined_INSTR.sql",
+		"/Users/sheng/Documents/Learning/SQL/untitled.sql",
+		"/Users/sheng/Documents/Learning/SQL/untitled",
+		"/Users/sheng/Documents/Learning/py/basic.sql",
+		"/Users/sheng/Documents/Learning/py/learning2.py",
+		"/Users/sheng/Desktop/2.py",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Anaconda/Default (OSX).sublime-keymap",
+		"/Users/sheng/Desktop/untitled.R",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/R-Box/R-Box.sublime-settings",
+		"/Users/sheng/GitBook/Library/unityculture/statistical_ml/book.json",
+		"/Users/sheng/Desktop/a",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/ConvertToUTF8.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/Users/sheng/Documents/Whoscall/20150807_FET_project/geocode.sh"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n",
+			"late",
+			"lat",
+			"jax",
+			"math",
+			"所有可得解為",
+			"font",
+			"left",
+			"font",
+			"h2",
+			"- ",
+			"ma",
+			"math",
+			"glmnet",
+			"新主健保資料庫ID_2.dbo",
+			"2002",
+			" ",
+			"     ",
+			"         \n",
+			"D",
+			"x",
+			"print",
+			"len",
+			"print",
+			"\"\"\"\n\nx = 3\nprint  x   \nx += 2\nprint x\nx -= 1\nprint x\n\nx,y=99,3    \n",
+			"222",
+			"]\n",
+			"python",
+			"pyhton",
+			"command",
+			"ㄇ"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ID_2005百萬抽樣檔.dbo",
+			"2012",
+			"2011",
+			"2010",
+			"2009",
+			"2008",
+			"2007",
+			"2006",
+			"2005",
+			"2004",
+			"2003"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 0,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"bracket_highlighter.busy": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 24.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "boostrap.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Whoscall/whoscall.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 130.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
