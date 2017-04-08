@@ -1,4 +1,4 @@
-# 3/29
+# Course Note
 
 ## 2.02 輸入html與假文
 
@@ -67,3 +67,47 @@
 - ul>li.A$${$$}*10
 
 ##  3.01-快速選取與修改網頁內容
+
+- 用command + D 可以幫助我們：
+    - 快速修改全部打錯的相同標籤
+
+##  3.02-極速產出圍繞內容的標籤方式
+
+way1 : control + W 選取的範圍 -> 在外層包標籤
+way2 : control + W 選取的範圍 + div.nav > ul.nav -> 外層包好且產屬性
+
+control+W 對一系列的清單，不要只有頭跟尾，可用 *
+ex: control+W -> type in `li*`
+
+## 3.03-使用外掛選取及轉換網頁色彩
+
+了解css有關的顏色外掛工具
+
+- install colorhilighter package
+- 色馬會出現在sublime中
+- 右鍵可以用choose color
+- convert color 可以調整透明度
+
+## 3.04-超好用的假圖產生器
+
+- install package : fakeimg
+- fakeimg + tab : size/img color/text color/text can be adjusted.
+- div.album>ul>li*30>a[#]>fakeimg : 不可以同時共用兩個(emmet + fakeimg)外掛
+- 先做 emmet + command D + fakeimg
+ 
+## 3.05-快速設定專案資料夾
+
+- finder > folder > 拉進來
+- command + K + B : 開啟sidebar
+
+## 3.06-如何在sublime中直接上傳網頁
+
+不太需要 先跳過
+- install package : fptsync
+
+## 4.01-強大的snippet功能
+
+Tools > Developer > new snippet > 把第三行取代成 程式碼 > tabtrigger 取消註解 並且命名
+如果命名跟其他套件相衝(menu in emmet)，換名字，中文可
+
+## 4.02-極重要的snippet規劃與應用方法

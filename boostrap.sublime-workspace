@@ -20,9 +20,19 @@
 	"buffers":
 	[
 		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>Document</title>\n</head>\n<body>\n<div>\n    <ul>\n        <li><a href=\"#\">一步美女中文規則厲害</a></li>\n        <li><a href=\"#\">一步美女中文規則厲害</a></li>\n        <li><a href=\"#\">一步美女中文規則厲害</a></li>\n        <li><a href=\"#\">一步美女中文規則厲害</a></li>\n        <li><a href=\"#\">一步美女中文規則厲害</a></li>\n        <li><a href=\"#\">一步美女中文規則厲害</a></li>\n        <li><a href=\"#\">一步美女中文規則厲害</a></li>\n    </ul>\n</div>\n</body>\n</html>",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 465,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ReadMe.md",
+			"settings":
+			{
+				"buffer_size": 1297,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -51,9 +61,17 @@
 	"command_palette":
 	{
 		"height": 354.0,
-		"last_filter": "markdown",
+		"last_filter": "markd",
 		"selected_items":
 		[
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
 			[
 				"markdown",
 				"Set Syntax: Markdown"
@@ -131,7 +149,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 432.0
+		"width": 521.0
 	},
 	"console":
 	{
@@ -161,8 +179,14 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/sheng/Documents/Learning/front-end"
+	],
 	"file_history":
 	[
+		"/Users/sheng/Documents/Learning/front-end/ReadMe.md",
+		"/Users/sheng/Documents/Learning/front-end/boostrap.sublime-project",
 		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/20151007_classification",
 		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/2017/20170402_KNN",
 		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/2017/20170404_LDA",
@@ -259,6 +283,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"way1",
+			"<li>",
+			"il",
+			"td",
 			"\n",
 			"late",
 			"lat",
@@ -326,15 +354,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 465,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								102,
+								102
 							]
 						],
 						"settings":
@@ -342,20 +370,230 @@
 							"WordCount":
 							{
 								"changes": 0,
-								"count": 0,
+								"count": 8,
 								"modified": false,
 								"selection": false,
 								"status": -1,
 								"syntax": "plain text"
 							},
+							"auto_name": "",
 							"bracket_highlighter.busy": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										97,
+										101
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										34,
+										38
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"is_init_dirty_state": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ReadMe.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1295,
+								1295
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1294,
+										1295
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/dot.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1290,
+										1291
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1513.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -428,7 +666,7 @@
 		[
 			[
 				"",
-				"~/Documents/Whoscall/whoscall.sublime-project"
+				"~/Documents/NCCU/ML/NCCU_ML_Note/nccu_ml.sublime-project"
 			]
 		],
 		"width": 380.0
